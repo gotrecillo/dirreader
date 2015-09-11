@@ -2,6 +2,7 @@
   "name":"dirreader",
   "version": "0.0.1",
   "devDependencies": {
-    "standard": "^3.0.0"
+    "standard": "^3.0.0",
+    "colors": "1.1.2"
   }
 }
